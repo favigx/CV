@@ -1,13 +1,36 @@
 body{
-    
-    background-image: url(cv3.jpeg)
+    height: 842px;
+    width: 595px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-repeat: no-repeat;
+
+    background-image: url(cv4.jpeg)
 
     
-    
-    
-    
+   
+}
+
+
+main{
+    width: 50%;
+    float: right;
+    text-align: center;
     
 }
+article{
+    width: 50%;
+    float: right;
+    text-align: center;
+}
+header{
+    width: 50%;
+    float: left;
+    text-align: center;
+    
+}
+
 
 
 
@@ -15,22 +38,22 @@ img{
     
     display: block;
     margin: auto;
-    width: 26%;
+    width: 300px;
+    padding: 3rem;
+    
+    
     
     
     
 }
 
-h1{
+
+
+
+hr{
     
-    color:aliceblue;
-    font-size: 50px;
-    text-align: center
+    width: 283px;
     
 }
 
-p{
-    font-size: 50 px;
-    color:aliceblue
-    
-}
+
